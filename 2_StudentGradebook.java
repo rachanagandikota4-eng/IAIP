@@ -56,7 +56,6 @@ public class StudentGradebook {
             System.out.println("1. Add Student & Marks");
             System.out.println("2. Display Grade Report");
             System.out.println("3.edit student record");
-            
             System.out.println("4. Remove Student");
             System.out.println("5. Exit");
             System.out.print("Choose an option: ");
